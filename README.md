@@ -1,6 +1,7 @@
 In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
 
-### Link: bhgithub.ccbp.tech
+### Link: https://bhgithub.ccbp.tech/
+
 ### Refer to the images below:
 
  <br/>
